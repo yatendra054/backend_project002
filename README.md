@@ -1,6 +1,6 @@
-#Medical_project
+# Medical_project
 ***
-##Description <br>
+## Description <br>
 Simply first we convert the pdf file to image file and then after extract the text from it<br>
  #By using library:--<br>
    *pdf2image
