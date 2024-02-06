@@ -1,9 +1,9 @@
 #Medical_project
 ***
-##Description
-Simply first we convert the pdf file to image file and then after extract the text from it
+##Description__
+Simply first we convert the pdf file to image file and then after extract the text from it__
  #By using library:
    *pdf2image
    *pytessract
-   *python-opencv
+   *python-opencv__
 From extracted text get some essential information.
